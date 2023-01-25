@@ -9,6 +9,10 @@ module.exports = {
 		"https://solar.lowtechmagazine.com",
 		"https://www.stevegattuso.me",
 		"https://cjlm.ca",
-		"https://100r.co"
+		"https://100r.co",
+		"https://azlen.me",
+		"https://jzhao.xyz",
+		"https://fdisk.quest",
+		
 	]
 };
