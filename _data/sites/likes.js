@@ -3,6 +3,7 @@ module.exports = {
 	description: ":)",
 	options: {
 		//frequency: 60 * 23, // (in minutes), 23 hours
+		noShame: true
 	},
 	urls: [
 		"https://boehs.org",
